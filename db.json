@@ -1,24 +1,24 @@
 {
-  "items":[
-{
-  id: 1,
-  name: "Стол IKEA",
-  price: 3000,
-},
-{
-  id: 2,
-  name: "Кресло VADIM",
-  price: 1488,
-},
-{
-  id: 3,
-  name: "Столешница Olga",
-  price: 15000,
-},
-{
-  id: 4,
-  name: "Собака Майло",
-  price: 1500000,
-},]
-
+  "items": [
+    {
+      "id": 1,
+      "name": "Стол IKEA",
+      "price": 3000
+    },
+    {
+      "id": 2,
+      "name": "Кресло VADIM",
+      "price": 1488
+    },
+    {
+      "id": 3,
+      "name": "Столешница Olga",
+      "price": 15000
+    },
+    {
+      "id": 4,
+      "name": "Собака Майло",
+      "price": 1500000
+    }
+  ]
 }
